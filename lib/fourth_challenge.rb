@@ -7,7 +7,7 @@ def fourth_challenge
       :hero_friends => [
         #your hashes here!
         {name:"Benvolio",age:"17",attitude:"worried"},
-        {name:"",age:"",attitude:""}
+        {name:"Mercutio",age:"",attitude:""}
       ]
    }, 
    :capulet => {
